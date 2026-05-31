@@ -1,0 +1,7 @@
+# Specs internes — NE PAS publier (gardés en local seulement)
+*.spec.md
+politique-confidentialite.spec.md
+specs/
+
+# macOS
+.DS_Store
